@@ -20,7 +20,7 @@ Thank You for taking the time to view my GitHub Profile.
 - 🌱 I’m currently working and growing my skillset in Android .
 - 👨‍🎓 Graduated in software engineering 
 - 💬 Ask me about Native Android, flutter, Kotlin 
-- ⚡  Besides coding, I also enjoy off-roading and playing video games. :smile:
+- ⚡  Besides coding, I also enjoy fishing and playing video games. :smile:
 
   
 <br>
