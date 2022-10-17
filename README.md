@@ -15,7 +15,7 @@ Thank You for taking the time to view my GitHub Profile.
 
 
 <img align="right"
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%" height="30%"/>
+ src="https://github.com/asheykhi/asheykhi/blob/main/home_charecter.gif" width="30%" height="30%"/>
   
 - 🌱 I’m currently working and growing my skillset in Android .
 - 👨‍🎓 Graduated in software engineering 
